@@ -13,7 +13,7 @@ Whenever you decide to check out your friends' pictures on social networks or le
 A **client** is a customer of a service, and a **server** is a computer that serves users or other computers. It can be located remotely, tens of thousands of kilometers away from you. The technology when the network load is distributed between servers and service customers is called **Client-Server Architecture**.
 
 <center>
-<img src="../../images/http/http1.jpeg" alt="drawing" width="500"/>
+<img src="images/http/http1.jpeg" alt="drawing" width="500"/>
 </center>
 
 Data exchange between the client and the server takes place due to the **HTTP**. HTTP stands for **HyperText Transfer Protocol**. A protocol is a set of rules and conventions that defines a uniform way to exchange data between different programs and handle errors. A **Protocol** is a set of specific rules by which programs or devices communicate with each other. Like a waiter in a restaurant, it accepts your requests, takes them to the server for processing, and then comes back to you with a response.
@@ -37,7 +37,7 @@ To make the Internet space safer, the programmers decided to develop an add-on o
 HTTPS provides a secure connection between the user's browser and the web server. Often, the browser window displays a green address bar or lock indicating encrypted data transfer. You can also check the address bar of your web browser to see if you have a secure connection. It should start with *"https://"*.
 
 <center>
-<img src="../../images/http/http2.jpeg" alt="drawing" width="200"/>
+<img src="images/http/http2.jpeg" alt="drawing" width="200"/>
 </center>
 
 

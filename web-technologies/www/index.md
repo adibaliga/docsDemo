@@ -23,7 +23,7 @@ The Web is also sometimes ironically called Wild Wild Web by analogy with the mo
 A unit of hypertext data on the W3 is called a **web page**. A web page may contain text, media files, graphics and links to other pages.
 
 <center>
-<img src="../../images/www/www2.jpeg" alt="drawing" width="200"/>
+<img src="images/www/www2.jpeg" alt="drawing" width="200"/>
 </center>
 
 A group of Web pages that share a common content theme, design and links to each other is called a **website**. Special programs — **browsers** — are used to download and browse these websites. Most popular browsers: Firefox, Chrome, Opera, Safari.
@@ -31,7 +31,7 @@ A group of Web pages that share a common content theme, design and links to each
 Often when you visit sites, you can see "www" in the address bar of the browser:
 
 <center>
-<img src="../../images/www/www3.png" alt="drawing" width="200"/>
+<img src="images/www/www3.png" alt="drawing" width="200"/>
 </center>
 
 This prefix indicates that the address of the website belongs to the Internet space of the World Wide Web and is not mandatory.
@@ -52,7 +52,7 @@ The development of the World Wide Web continues to this day and we will be able 
 Most people use the terms "Internet" and "WWW" interchangeably, but in fact, these are two separate notions. The **Internet** is a global computer network, i.e. a technical infrastructure that connects millions of computers around the world. If W3 is used to distribute data that contains links to other data, the Internet connects computers to each other to provide access to the information.
 
 <center>
-<img src="../../images/www/www4.jpeg" alt="drawing" width="200"/>
+<img src="images/www/www4.jpeg" alt="drawing" width="200"/>
 </center>
 
 Simply put, WWW is a way of obtaining information over the Internet, but the Internet is also used to access info that is not a part of the Web.
