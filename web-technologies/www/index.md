@@ -15,7 +15,7 @@ You so often hear phrases like "The World Wide Web has engulfed our planet", tha
 The **World Wide Web** is a collection of information resources scattered around the world and linked together by reference. Sometimes this term is shortened to **WWW**, **W3** or **simply Web**.
 
 <center>
-<img src="../../images/www/www1.jpeg" alt="drawing" width="500"/>
+<img src="images/www/www1.jpeg" alt="drawing" width="500"/>
 </center>
 
 The Web is also sometimes ironically called Wild Wild Web by analogy with the movie title Wild Wild West: come to think of it, the resemblance is undeniable.
