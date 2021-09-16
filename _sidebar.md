@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [Front and Development](/)
+* [Front end Development](/)
 
 * [Web Technologies](./web-technologies/index)
   * [World Wide Web](./web-technologies/www/index)
